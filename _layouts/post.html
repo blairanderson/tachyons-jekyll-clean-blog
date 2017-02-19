@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="athelas" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="center measure-wide f5 pv5 lh-copy ph2" itemprop="articleBody">
+    Posted
+    {% if page.author %}
+      by
+      <cite itemprop="author" itemscope itemtype="http://schema.org/Person" class="f6 ttu tracked fs-normal"><span itemprop="name">{{ page.author }}</span></cite>
+    {% endif %}
+    on
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+    {{ content }}
+  </div>
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>
