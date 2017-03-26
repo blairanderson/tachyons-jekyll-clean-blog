@@ -25,8 +25,8 @@ baseurl: "/tachyons-jekyll-clean-blog" # the subpath of your site, e.g. /blog
 url: "http://www.blairanderson.co" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 facebook_username: example
-twitter_username: example
-github_username:  example
+twitter_username: blairanderson
+github_username:  blairanderson
 dribbble_username:  example
 
 authors:
