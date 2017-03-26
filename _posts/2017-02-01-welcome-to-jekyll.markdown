@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 excerpt: "Simple, blog aware, static site generator."
 author: jekyll
 date:   2017-02-01 08:17:26 -0800
-image: assets/images/1.jpg
+image: assets/images/15/15-1.jpg
 ---
 
 # The repercussion of ugliness is endless

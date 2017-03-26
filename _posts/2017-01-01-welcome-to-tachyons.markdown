@@ -4,7 +4,7 @@ title:  "Welcome to Tachyons"
 excerpt: "Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible."
 author: tachyons
 date:   2017-01-01 12:17:26 -0800
-image: assets/images/5.jpg
+image: assets/images/15/15-5.jpg
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

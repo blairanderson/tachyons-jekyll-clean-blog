@@ -4,7 +4,7 @@ title:  "Tachyons Templates"
 excerpt: "Download free, fast loading, highly readable, and 100% responsive website themes."
 author: tachyonstemplates
 date:   2017-02-19 12:17:26 -0800
-image: assets/images/2.jpg
+image: assets/images/15/15-2.jpg
 ---
 
 Forever free, open source. [Tachyons Templates](#) is a collection of free to download Tachyons themes and templates. Our themes are open source and you can use them personally or commercially.
